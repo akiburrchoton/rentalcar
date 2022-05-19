@@ -1,0 +1,31 @@
+.navbar{
+    background-color: black!important;
+    color: white;
+    margin-bottom: 50px;
+    width: 100%;
+}
+.navbar>.container{
+    display: block!important;
+    margin: 10px auto;
+}
+.card-img-top {
+    width: 65%;
+    margin: 0 auto;
+    max-height: 130px;
+}
+
+.card{
+    text-align: center;
+    height: 565px;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
